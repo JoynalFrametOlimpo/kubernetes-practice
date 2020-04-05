@@ -1,6 +1,15 @@
-## Launch single node kubernetes cluster
+# **Practice Kubernetes**
 
-# Step 1
-1.- Install minikube
-```minikube version```
+## **Launch single node kubernetes cluster**
+
+### Step 1
+1. Install `minikube` local
+```
+minikube version
+```
+2. Start cluster
+```
+minikube start --wait=false
+```
+
 
