@@ -2,5 +2,5 @@
 
 # Step 1
 1.- Install minikube
-``minikube version`
+```minikube version```
 
